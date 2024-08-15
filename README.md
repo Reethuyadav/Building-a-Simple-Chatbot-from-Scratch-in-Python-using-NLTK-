@@ -1,0 +1,2 @@
+# Building-a-Simple-Chatbot-from-Scratch-in-Python-using-NLTK-
+This project was primarily aimed at utilizing and testing my Python skills rather than creating a state-of-the-art chatbot with advanced cognitive abilities. It was one of my first ventures into the field of natural language processing, allowing me to apply the concepts I had recently learned. By building a simple chatbot, I could explore  skills.
